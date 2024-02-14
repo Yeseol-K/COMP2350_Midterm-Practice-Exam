@@ -1,11 +1,11 @@
-import Artist from "./Artist";
-import User from "./User";
-import Song from "./Song";
-import Album from "./Album";
-import Playlist from "./Playlist";
-import LocalImporter from "./LocalImporter";
-import CloudImporter from "./CloudImporter";
-import PlaylistImporter from "./PlaylistImporter";
+import Artist from "./src/Artist";
+import User from "./src/User";
+import Song from "./src/Song";
+import Album from "./src/Album";
+import Playlist from "./src/Playlist";
+import LocalImporter from "./src/LocalImporter";
+import CloudImporter from "./src/CloudImporter";
+import PlaylistImporter from "./src/PlaylistImporter";
 
 const artist = new Artist("Muse");
 const album = new Album("The 2nd Law", artist, 2012);

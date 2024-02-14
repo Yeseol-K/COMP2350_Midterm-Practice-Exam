@@ -1,0 +1,16 @@
+{
+  "albums": [
+    {
+      "name": "Album1",
+      "year": 2021,
+      "artist": "Artist1",
+			"tracks": ["Song1", "Song2", "Song3"]
+    },
+    {
+      "name": "Album2",
+      "year": 2022,
+      "artist": "Artist2",
+			"tracks": ["Song4", "Song5", "Song6"]
+    }
+  ]
+}
